@@ -1,6 +1,6 @@
 {
-    "name": "akaunting/laravel-mutable-observer",
-    "description": "Mutable observer package for Laravel",
+    "name": "dariassoft/laravel-mutable-observer",
+    "description": "Mutable observer package for Laravel 11 y 12",
     "keywords": [
         "laravel",
         "observer",
